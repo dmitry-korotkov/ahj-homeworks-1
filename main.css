@@ -1,0 +1,12 @@
+body {
+  background: #eee;
+  text-align: center;
+}
+
+.logo {
+  background-image: url(4822674afeb2ccc2d8aaca40bb3b07ad.png);
+  background-size: cover;
+  height: 200px;
+  width: 200px;
+  margin: 0 auto;
+}
